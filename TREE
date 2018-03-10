@@ -1,3 +1,4 @@
+# WARREN OF THE RABBIT  ########
 /root   - house of the holy
 /krip   - entropy + rand_gen + math_functions
 /hell   - DEMON home
@@ -15,17 +16,14 @@
     /dump/  - XS processor
     /pub/   - 755 file land 
     /guild/ - clan holdings
-    /usb/   - mount-point
-    
-     
-# RABBIT OF THE ROOT ###########
+    /usb/   - mount-point    
+# RINGS OF POWER ###############
 0 RING root
 1 RING lord
 2 RING hell
 3 RING wheel
 4 RING heir-home
-# JAIL ########################
-5 RING seers
-6 RING norm
-7 RING anony
+5 RING jail-seers
+6 RING jail-norm
+7 RING jail-anony
 
