@@ -16,7 +16,25 @@ Manpages:
 ######################################################################
 ACESS_FLOW
   OTOPSK -> anony -> OPIE -> user -> OTOPSK -> scp -> OPIE su -> OTOPSKOPIE -> ssh@host
-######################################################################
 
+This MANTRA involves user access across a unix network ssh sockets
+######################################################################
+OPIE will give you a sequential-key-list
+  This allows you to obtain logs of any suspicious-skips in the access chain
+  The keys are shift(perl) only; upon issue remove & try the next
+
+This key list is printed off reciept paper as a delicate-yet-tiny form of crypto
+A simple swallow & there it all gone
+Or it can be hidden smartly in compete concealment
+
+Five copies are made
+  Working
+  Backup
+  Stored 1
+  Stored 2
+  Stored 3
+
+Host system has complete control over length thru the House of Lords
+List gets shorter with each use
 ######################################################################
 ######################################################################
