@@ -5,6 +5,8 @@
 /sbin   - tools
 /etc    - configuration of the host
 /dev    - devices of the host
+/var    - log of host
+/sys    - library
 /tmp    - 333 dump dir
 /usr    - chroot of userland
     /src/   - open source code
@@ -13,4 +15,17 @@
     /dump/  - XS processor
     /pub/   - 755 file land 
     /guild/ - clan holdings
+    /usb/   - mount-point
     
+     
+# RABBIT OF THE ROOT ###########
+0 RING root
+1 RING lord
+2 RING hell
+3 RING wheel
+4 RING heir-home
+# JAIL ########################
+5 RING seers
+6 RING norm
+7 RING anony
+
