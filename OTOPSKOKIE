@@ -1,4 +1,22 @@
 ######################################################################
 # OTOPSKOKIE - One Time Only Pre Shared Key One Password In Everything
+######################################################################
+True-hardened methods of shadow unix access to Kripto data 
+######################################################################
+Required material for this this jitsu:
+  Thermal USB printer 
+  Paper-rolls
 
-True-hardened methods of shadow unix access
+1) Find the driver
+2) Test device output
+######################################################################
+Manpages:
+  opie
+  opiepasswd
+######################################################################
+ACESS_FLOW
+  OTOPSK -> anony -> OPIE -> user -> OTOPSK -> scp -> OPIE su -> OTOPSKOPIE -> ssh@host
+######################################################################
+
+######################################################################
+######################################################################
