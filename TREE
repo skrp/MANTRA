@@ -1,0 +1,16 @@
+/root   - house of the holy
+/krip   - entropy + rand_gen + math_functions
+/hell   - DEMON home
+/wheel  - counsel of the host
+/sbin   - tools
+/etc    - configuration of the host
+/dev    - devices of the host
+/tmp    - 333 dump dir
+/usr    - chroot of userland
+    /src/   - open source code
+    /home/  - user quota homes
+    /bin/   - user tools
+    /dump/  - XS processor
+    /pub/   - 755 file land 
+    /guild/ - clan holdings
+    
