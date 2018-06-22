@@ -1,5 +1,6 @@
 ////////////////////////////////////////////////
 // C_LONG_FORM of the village hidden in the 1337
+// VERSION: 1 ------------------------------skrp
 #include <stdio.h>
 #define MAX 10
 void pntr(int *, int *);
