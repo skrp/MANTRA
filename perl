@@ -14,6 +14,13 @@ print "$array[1] $array[0]"\n";
 my @week = ("mon", "tuesday", "03", "thu", "fri", "saturday", "07-sunday");
 print "$week[5]\n";
 
+# print each element array
+for (@week)
+{
+  my $i = $_;
+  print "$i\n";
+}
+
 # add variables
 my $first = 1;
 my $second = 3;
